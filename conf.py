@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Liya"  # (translatable)
 BLOG_TITLE = "Guru Liya's Blog"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "guruliya.github.io"
+SITE_URL = "http://www.guruliya.com/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "guruliya.github.io"
