@@ -5,15 +5,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>guruliya.github.io/galleries/rss.xml</loc>
+  <loc>http://www.guruliya.com/galleries/rss.xml</loc>
   <lastmod>2015-03-11</lastmod>
  </sitemap>
  <sitemap>
-  <loc>guruliya.github.io/rss.xml</loc>
+  <loc>http://www.guruliya.com/rss.xml</loc>
   <lastmod>2015-03-11</lastmod>
  </sitemap>
  <sitemap>
-  <loc>guruliya.github.io/sitemap.xml</loc>
+  <loc>http://www.guruliya.com/sitemap.xml</loc>
   <lastmod>2015-03-11</lastmod>
  </sitemap>
 </sitemapindex>
